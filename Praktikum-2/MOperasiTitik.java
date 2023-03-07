@@ -1,5 +1,5 @@
  /**
- * File : OperasiTitik.java 7/03/23
+ * File : MOperasiTitik.java 7/03/23
  * Penulis : Akbar Ario Satrio Utomo
  * Deskripsi : kelas yang berisi program untuk menjalankan operasi pada titik
  * 			

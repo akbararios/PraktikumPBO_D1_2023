@@ -1,8 +1,8 @@
  /**
  * File : OperasiTitik.java 7/03/23
  * Penulis : Akbar Ario Satrio Utomo
- * Deskripsi : kelas yang berisi program untuk menjalankan kelas Titik.
- * 
+ * Deskripsi : kelas yang berisi program fungsi-fungsi untuk melakukan operasi
+ * 				pada titik.
  */ 
  
  public class OperasiTitik{

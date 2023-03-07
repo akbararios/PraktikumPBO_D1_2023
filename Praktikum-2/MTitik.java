@@ -1,6 +1,6 @@
 /**
- * File : Titik.java 21/02/23
- * Penulis : Asisten Praktikum Lab D
+ * File : MTitik.java 28/02/23
+ * Penulis : Akbar Ario Satrio Utomo
  * Deskripsi : kelas yang berisi program untuk menjalankan kelas Titik.
  * 
  */ 

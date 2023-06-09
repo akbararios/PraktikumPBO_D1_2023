@@ -1,0 +1,20 @@
+Nama: Akbar Ario Satrio Utomo
+NIM: 24060121140123
+
+Dalam pemrograman generik, kita dapat menggunakan tipe class atau antarmuka sebagai 
+parameter saat mendefinisikan kelas atau metode. Ini memungkinkan kita untuk membuat 
+kode yang lebih aman dan dapat digunakan kembali.
+
+Dalam kelas BangunDatarGeneric.java, jika kita mengganti T dengan T1, kita dapat 
+memberi nama parameter generic yang lebih deskriptif. Hal ini berguna saat kita 
+menggunakan lebih dari satu parameter generik dalam kelas tersebut, sehingga kita 
+dapat membedakan antara keduanya.
+
+Dalam kelas BangunDatarGenericTest.java, digunakan beberapa metode seperti bdg.get, 
+get.class, dan get.name untuk mendapatkan informasi tentang kelas yang meng-extend 
+kelas abstrak BangunDatar. Informasi ini akan digunakan dalam implementasi kelas 
+BangunDatarGenericTest.
+
+Dengan menggunakan metode-metode tersebut, kita dapat mengakses dan memanfaatkan 
+informasi tentang kelas secara dinamis, sehingga dapat meningkatkan fleksibilitas 
+dan kegunaan kode tersebut.
